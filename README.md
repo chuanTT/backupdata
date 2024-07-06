@@ -18,7 +18,7 @@ Làm cả 2 việc cùng một lúc chạy
 npm run sct
 ```
 
-## Cầu cấu hình biến .env trước khi chạy lệnh dưới
+## Cần cấu hình biến .env trước khi chạy lệnh dưới
 
 Đồng bộ sản phẩm lên server
 
@@ -38,7 +38,7 @@ npm run lgctapi
 npm run lggp
 ```
 
-## Cầu chạy cuối cùng
+## Cần chạy cuối cùng
 
 Đồng bộ bài viết lên server
 
