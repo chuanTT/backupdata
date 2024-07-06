@@ -1,0 +1,539 @@
+[
+  {
+    "name": "Giới thiệu chung",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/home-line.svg",
+    "slugProduct": [
+      "huong-dan-mkt-care",
+      "huong-dan-mkt-data",
+      "huong-dan-phan-mem-mkt-x",
+      "huong-dan-phan-mem-mkt-insta",
+      "huong-dan-phan-mem-mkt-tube",
+      "huong-dan-phan-mem-mkt-page",
+      "huong-dan-phan-mem-mkt-linkedin",
+      "2126-revision-v1"
+    ],
+    "slugPost": [
+      "docs/gioi-thieu-chung",
+      "docs/gioi-thieu-chung-2",
+      "docs/1-gioi-thieu-chung",
+      "docs/gioi-thieu-chung-6",
+      "docs/gioi-thieu-chung-9",
+      "docs/gioi-thieu-chung-11",
+      "docs/gioi-thieu-chung-12"
+    ]
+  },
+  {
+    "name": "Tải và cài đặt phần mềm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/cloud-download-outline.svg",
+    "slugProduct": [
+      "huong-dan-mkt-care",
+      "huong-dan-mkt-data",
+      "huong-dan-phan-mem-mkt-x",
+      "huong-dan-phan-mem-mkt-insta",
+      "huong-dan-phan-mem-mkt-tube",
+      "huong-dan-phan-mem-mkt-page",
+      "huong-dan-phan-mem-mkt-linkedin",
+      "2126-revision-v1"
+    ],
+    "slugPost": [
+      "docs/1-tai-bo-cai-dat-phan-mem-mkt-care",
+      "docs/tai-bo-cai-dat-phan-mem-mkt-data",
+      "docs/1-tai-bo-cai-dat-phan-mem-mkt-x",
+      "docs/2-1-tai-va-cai-dat-phan-mem-mkt-insta",
+      "docs/1-tai-va-cai-dat-phan-mem-mkt-tube",
+      "docs/tai-va-cai-dat-phan-mem",
+      "docs/tai-bo-cai-dat-phan-mem-mkt-linkedin"
+    ]
+  },
+  {
+    "name": "Đăng nhập vào phần mềm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon_tai_khoan.png",
+    "slugProduct": [
+      "huong-dan-mkt-care",
+      "huong-dan-mkt-data",
+      "huong-dan-phan-mem-mkt-x",
+      "huong-dan-phan-mem-mkt-insta",
+      "huong-dan-phan-mem-mkt-tube",
+      "huong-dan-phan-mem-mkt-page",
+      "huong-dan-phan-mem-mkt-linkedin",
+      "2126-revision-v1"
+    ],
+    "slugPost": [
+      "docs/1-khach-hang-da-co-ban-quyen-phan-mem-mkt-care",
+      "docs/khach-hang-da-co-ban-quyen-phan-mem-mkt-data",
+      "docs/3-1-khach-hang-da-co-ban-quyen-phan-mem-mkt-x",
+      "docs/1-khach-hang-da-co-ban-quyen-phan-mem-mkt-insta",
+      "docs/khach-hang-da-co-ban-quyen-phan-mem-mkt-tube",
+      "docs/khach-hang-da-co-ban-quyen-phan-mem-mkt-page",
+      "docs/khach-hang-da-co-ban-quyen-phan-mem-mkt-linkedin"
+    ]
+  },
+  {
+    "name": "Hướng dẫn thiết lập cơ bản",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon_thiet_lap.png",
+    "slugProduct": [
+      "huong-dan-mkt-care",
+      "huong-dan-phan-mem-mkt-x",
+      "huong-dan-phan-mem-mkt-insta",
+      "huong-dan-phan-mem-mkt-tube",
+      "huong-dan-phan-mem-mkt-page",
+      "huong-dan-phan-mem-mkt-linkedin"
+    ],
+    "slugPost": [
+      "docs/1-cai-dat-duong-dan-trinh-duyet-mkt-browser",
+      "docs/1-cai-dat-duong-dan-trinh-duyet-mkt-browser-2",
+      "docs/1-cai-dat-he-thong-mkt-insta",
+      "docs/cai-dat-duong-dan-trinh-duyet-mkt-browser-3",
+      "docs/cai-dat-duong-dan-trinh-duyet-mkt-browser-4",
+      "docs/cai-dat-duong-dan-trinh-duyet-mkt-browser-5"
+    ]
+  },
+  {
+    "name": "Lựa chọn các cột hiển thị thông tin",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/lua-chon-cac-cot-hien-thi-thong-tin"]
+  },
+  {
+    "name": "Thêm danh mục quản lý tài khoản",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/them-danh-muc-quan-ly-tai-khoan"]
+  },
+  {
+    "name": "Thêm tài khoản facebook vào phần mềm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/them-tai-khoan-facebook-vao-phan-mem"]
+  },
+  {
+    "name": "Thêm danh mục quản lý",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": [
+      "huong-dan-mkt-care",
+      "huong-dan-mkt-data",
+      "2126-revision-v1"
+    ],
+    "slugPost": ["docs/them-danh-muc-quan-ly", "docs/them-danh-muc-quan-ly-2"]
+  },
+  {
+    "name": "Thêm nội dung",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/them-noi-dung"]
+  },
+  {
+    "name": "Thêm và sửa kịch bản tương tác",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-modified.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/1-them-va-sua-kich-ban-tuong-tac"]
+  },
+  {
+    "name": "Chạy tương tác nuôi tài khoản",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/ql-dich-vu.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/2-chay-tuong-tac-nuoi-tai-khoan"]
+  },
+  {
+    "name": "Share bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/share.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/1-share-bai-viet"]
+  },
+  {
+    "name": "Kết bạn - Theo dõi bạn bè",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/friendship.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/2-ket-ban-theo-doi-ban-be"]
+  },
+  {
+    "name": "Đồng ý - Huỷ kết bạn",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/ql-nhan-vien.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/3-dong-y-huy-ket-ban"]
+  },
+  {
+    "name": "Bình luận trang cá nhân",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/comment.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/4-binh-luan-trang-ca-nhan"]
+  },
+  {
+    "name": "Bình luận vào nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/group-151-outline.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/5-binh-luan-vao-nhom"]
+  },
+  {
+    "name": "Gửi tin nhắn cá nhân",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/send.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/6-gui-tin-nhan-ca-nhan"]
+  },
+  {
+    "name": "Tham gia nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/hand-pointer.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/7-tham-gia-nhom"]
+  },
+  {
+    "name": "Đăng bài cá nhân",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/post.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/8-dang-bai-ca-nhan"]
+  },
+  {
+    "name": "Đăng bài cá nhân theo UID",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/multipe-shopee.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/9-dang-bai-ca-nhan-theo-uid"]
+  },
+  {
+    "name": "Đăng bài nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/ql-nha-cung-cap.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/10-dang-bai-nhom"]
+  },
+  {
+    "name": "Đăng bài nhóm theo ID",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/phieu-van-chuyen.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/11-dang-bai-nhom-theo-id"]
+  },
+  {
+    "name": "Seeding bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/postcard.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/12-seeding-bai-viet"]
+  },
+  {
+    "name": "Đăng Reel Facebook",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/replicate.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/13-dang-reel-facebook"]
+  },
+  {
+    "name": "Cập nhật thông tin cơ bản",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/information.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/1-cap-nhat-thong-tin-co-ban"]
+  },
+  {
+    "name": "Cập nhật thông tin nâng cao",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/so-quy.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/2-cap-nhat-thong-tin-nang-cao"]
+  },
+  {
+    "name": "Xóa thông tin",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/delete.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/3-xoa-thong-tin"]
+  },
+  {
+    "name": "Bật tắt 2FA",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/2fa.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/4-bat-tat-2fa"]
+  },
+  {
+    "name": "Mở Checkpoint 956",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/khoi-tao-don-hang.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/1-mo-checkpoint-956"]
+  },
+  {
+    "name": "Mở Checkpoint 282",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/so-quy.png",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/2-mo-checkpoint-282"]
+  },
+  {
+    "name": "Mở khoá mail",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/lock-password-unlocked-outline.svg",
+    "slugProduct": ["huong-dan-mkt-care"],
+    "slugPost": ["docs/3-mo-khoa-mail"]
+  },
+  {
+    "name": "Thêm tài khoản quét",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-sp.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/them-tai-khoan-quet"]
+  },
+  {
+    "name": "Chuyển link facebook sang UID",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-ton-kho.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/3227"]
+  },
+  {
+    "name": "Kiểm tra trạng thái Live/Die của tài khoản facebook",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-khach-hang-1.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/3229"]
+  },
+  {
+    "name": "Quét thành viên nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-cua-hang.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-thanh-vien-nhom"]
+  },
+  {
+    "name": "Quét thông tin nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-km.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-thong-tin-nhom"]
+  },
+  {
+    "name": "Quét nhóm theo từ khoá",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon_ncc.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-nhom-theo-tu-khoa"]
+  },
+  {
+    "name": "Quét bạn bè của Profile",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-bao-cao.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-ban-be-cua-profile"]
+  },
+  {
+    "name": "Quét nhóm của Profile",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-yhanh-toan.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-nhom-cua-profile"]
+  },
+  {
+    "name": "Quét người theo dõi Profile",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-yhanh-toan.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-profile-dang-theo-doi"]
+  },
+  {
+    "name": "Quét Profile đang theo dõi",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon-yhanh-toan.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-thong-tin-profile"]
+  },
+  {
+    "name": "Quét danh sách bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-danh-sach-bai-viet"]
+  },
+  {
+    "name": "Quét tương tác bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-tuong-tac-bai-viet"]
+  },
+  {
+    "name": "Quét bình luận bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-binh-luan-bai-viet"]
+  },
+  {
+    "name": "Quét chia sẻ bài viết",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-mkt-data", "2126-revision-v1"],
+    "slugPost": ["docs/quet-chia-se-bai-viet"]
+  },
+  {
+    "name": "Quản lý tài khoản twitter trên phần mềm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x"],
+    "slugPost": ["docs/1-lua-chon-cac-cot-hien-thi-thong-tin"]
+  },
+  {
+    "name": "Quản lý nội dung",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x", "huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-them-danh-muc-quan-ly", "docs/1-them-noi-dung"]
+  },
+  {
+    "name": "Chức năng nuôi nick trên phần mềm X",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x"],
+    "slugPost": ["docs/1-them-va-sua-kich-ban-tuong-tac-2"]
+  },
+  {
+    "name": "Tương tác",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x"],
+    "slugPost": ["docs/1-dang-bai-viet"]
+  },
+  {
+    "name": "Chức năng kiếm tiền",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x"],
+    "slugPost": ["docs/tuong-tac-quang-cao"]
+  },
+  {
+    "name": "Chức năng theo dõi trên X",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-modified.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x"],
+    "slugPost": ["docs/1-theo-doi-theo-nguoi-dung"]
+  },
+  {
+    "name": "Cập nhật thông tin",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/comment.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-x", "huong-dan-phan-mem-mkt-insta"],
+    "slugPost": [
+      "docs/1-thay-doi-thong-tin-co-ban",
+      "docs/1-thay-doi-thong-tin-tai-khoan"
+    ]
+  },
+  {
+    "name": "Quản lý tài khoản Insta trên phần mềm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-them-danh-muc-quan-ly-tai-khoan"]
+  },
+  {
+    "name": "Tương tác Instagram",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-tinh-nang-dang-bai-viet"]
+  },
+  {
+    "name": "Chức năng theo dõi",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-theo-doi"]
+  },
+  {
+    "name": "Chức năng reels",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-dang-video-reels"]
+  },
+  {
+    "name": "Quét dữ liệu",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-modified.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-insta"],
+    "slugPost": ["docs/1-quet-tai-khoan-theo-doi"]
+  },
+  {
+    "name": "QUẢN LÝ TÀI KHOẢN",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-tube"],
+    "slugPost": ["docs/them-danh-muc-quan-ly-tai-khoan-3"]
+  },
+  {
+    "name": "QUẢN LÝ KÊNH",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-tube"],
+    "slugPost": ["docs/tao-moi"]
+  },
+  {
+    "name": "CHỨC NĂNG SEEDING",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-tube"],
+    "slugPost": ["docs/seeding-video-2"]
+  },
+  {
+    "name": "CHỨC NĂNG ĐĂNG BÀI",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-tube"],
+    "slugPost": ["docs/chuc-nang-dang-bai"]
+  },
+  {
+    "name": "CHỨC NĂNG QUÉT",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-tube"],
+    "slugPost": ["docs/quet-thong-tin-video"]
+  },
+  {
+    "name": "Đăng nhập Zalo",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/home-line.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/dang-nhap-zalo"]
+  },
+  {
+    "name": "Lấy thông tin tài khoản",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/cloud-download-outline.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/lay-thong-tin-tai-khoan"]
+  },
+  {
+    "name": "Gửi tin nhắn",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/icon_tai_khoan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/gui-tin-theo-sdt"]
+  },
+  {
+    "name": "Kết bạn Zalo",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/ket-ban-theo-sdt"]
+  },
+  {
+    "name": "Tính năng nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/tham-gia-nhom-2"]
+  },
+  {
+    "name": "Lịch sử nhóm",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-zalo"],
+    "slugPost": ["docs/lich-su-hoat-dong"]
+  },
+  {
+    "name": "QUẢN LÝ TÀI KHOẢN FACEBOOK TRÊN PHẦN MỀM",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-page"],
+    "slugPost": ["docs/lua-chon-cac-cot-hien-thi-thong-tin-3"]
+  },
+  {
+    "name": "QUẢN LÝ NỘI DUNG",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/kho-giao-dien.png",
+    "slugProduct": [
+      "huong-dan-phan-mem-mkt-page",
+      "huong-dan-phan-mem-mkt-linkedin"
+    ],
+    "slugPost": ["docs/them-danh-muc-quan-ly-4", "docs/them-danh-muc-quan-ly-5"]
+  },
+  {
+    "name": "TƯƠNG TÁC TÀI KHOẢN",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-page"],
+    "slugPost": ["docs/quet-page-profile-2"]
+  },
+  {
+    "name": "CẬP NHẬT THÔNG TIN TÀI KHOẢN",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-page"],
+    "slugPost": ["docs/cap-nhat-thong-tin-tai-khoan"]
+  },
+  {
+    "name": "Quản trị Page",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-page"],
+    "slugPost": ["docs/tao-fanpage-profile"]
+  },
+  {
+    "name": "QUẢN LÝ TÀI KHOẢN LINKEDIN TRÊN PHẦN MỀM",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/select-window.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-linkedin"],
+    "slugPost": ["docs/lua-chon-cac-cot-hien-thi-thong-tin-4"]
+  },
+  {
+    "name": "TƯƠNG TÁC",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/thanh-toan.png",
+    "slugProduct": ["huong-dan-phan-mem-mkt-linkedin"],
+    "slugPost": ["docs/dang-bai-viet"]
+  },
+  {
+    "name": "KẾT NỐI TÀI KHOẢN",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/inventory-management.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-linkedin"],
+    "slugPost": ["docs/ket-noi-theo-tai-khoan"]
+  },
+  {
+    "name": "THU THẬP DỮ LIỆU",
+    "icon": "https://huongdan.phanmemmkt.vn/wp-content/uploads/2024/01/content-new.svg",
+    "slugProduct": ["huong-dan-phan-mem-mkt-linkedin"],
+    "slugPost": ["docs/quet-bai-viet-theo-tai-khoan"]
+  }
+]

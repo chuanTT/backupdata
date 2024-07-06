@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Thiết lập hệ thống",
+    "id": "e9a75055-aa9f-4bca-8fd6-fba43034a5bc",
+    "createdAt": "2024-07-06T03:43:42.957Z",
+    "updateAt": "2024-07-06T03:43:42.957Z"
+  },
+  {
+    "name": "Tính năng phần mềm",
+    "id": "6d377825-defe-4291-91c1-e26a9454200e",
+    "createdAt": "2024-07-06T03:43:42.941Z",
+    "updateAt": "2024-07-06T03:43:42.941Z"
+  },
+  {
+    "name": "Hỗ trợ marketing",
+    "id": "bdbab257-bf64-4831-805e-4ba9ec4ccc1b",
+    "createdAt": "2024-07-06T03:43:42.938Z",
+    "updateAt": "2024-07-06T03:43:42.938Z"
+  }
+]

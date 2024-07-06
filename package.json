@@ -1,0 +1,38 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ct": "node category.js",
+    "pt": "node post.js",
+    "sct": "npm start && npm run ct",
+    "ps": "node posts.js",
+    "login": "node ./insertData/login.js",
+    "prd": "node ./insertData/insertProduct.js",
+    "gp": "node ./insertData/insertGroup.js",
+    "psapi": "node ./insertData/convertPost.js && node ./insertData/insertPosts.js",
+    "ctapi": "node ./insertData/insertCategory.js",
+    "lgprd": "npm run login && npm run prd",
+    "lggp": "npm run login && npm run gp",
+    "lgctapi": "npm run login && npm run ctapi",
+    "lgpsapi": "npm run login && npm run psapi",
+    "asynapi": "npm run login && npm run prd && npm run ctapi && npm run gp && npm run psapi",
+    "backup": "npm run sct && npm run asynapi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dom-parser": "^1.1.5",
+    "dotenv": "^16.4.5",
+    "file-url": "^4.0.0",
+    "form-data": "^4.0.0",
+    "jsdom": "^24.1.0",
+    "mime-types": "^2.1.35",
+    "slugify": "^1.6.6"
+  }
+}
