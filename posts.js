@@ -10,10 +10,12 @@ const newPost = newData.reduce((total, current) => {
 }, []);
 
 const postList = newPost.map((item) => {
+  const regex = new RegExp('\\\\\\"', 'g')
+  const content = item?.post_content?.replace(regex, "'")
   return {
     title: item?.post_title?.trim(),
     slug: item?.post_name,
-    basecontent: item?.post_content,
+    basecontent: content,
   };
 });
 
