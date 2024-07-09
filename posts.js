@@ -10,8 +10,14 @@ const newPost = newData.reduce((total, current) => {
 }, []);
 
 const postList = newPost.map((item) => {
-  const regex = new RegExp('\\\\\\"', 'g')
-  const content = item?.post_content?.replace(regex, "'")
+  const regex = new RegExp('\\\\\\"', "g");
+  let content = item?.post_content?.replace(regex, "'");
+  content = content.replace(/<!-- \/*wp:paragraph -->/g, "");
+  content = content.replace(/<!-- \/*wp:image -->/g, "");
+  const regexLine = new RegExp("(\\\\n|\\\\r\\\\n|\\\\n\\\\n)", "g");
+  content = content.replace(regexLine, "<br/>");
+  content = content.replace(/(<br\/>)\1+/g, "<br/>")
+  content = content.replace(/\t/g, '&#9;')
   return {
     title: item?.post_title?.trim(),
     slug: item?.post_name,
