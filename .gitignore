@@ -3,9 +3,9 @@
 # dependencies
 /node_modules
 /.pnp
-/data/*.json
 .pnp.js
 .yarn/install-state.gz
+
 
 # testing
 /coverage
@@ -13,6 +13,7 @@
 # next.js
 /.next/
 /out/
+
 
 # production
 /build
@@ -35,3 +36,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore the data directory
+data/
